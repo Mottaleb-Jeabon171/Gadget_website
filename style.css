@@ -1,0 +1,49 @@
+.container{
+    padding-bottom: 80px;
+}
+
+.btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.card{
+    border: none;
+    border-radius: 20px;
+    box-shadow:5px 5px 10px lightgray ;
+}
+.card-footer{
+    border-top: none;
+}
+.categories{
+    /* background-color: pink; */
+    height: 500px;
+}
+.last{
+    display: flex;
+
+}
+#contact{
+    height: 300px;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+#contact h6{
+    color: grey;
+}
+.footer{
+    padding-top: 30px;
+    text-align: center;
+}
+img:hover{
+    opacity: 0.6;
+    border: 2px solid green;
+    border-radius: 10px;
+}
